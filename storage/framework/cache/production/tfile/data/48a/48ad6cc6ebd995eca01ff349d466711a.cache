@@ -1,0 +1,64 @@
+000046a:1:{s:4:"time";s:21:"0.24962400 1696667540";}1696727540a:9:{s:2:"id";i:68;s:10:"updated_at";s:19:"2023-08-31 13:35:44";s:10:"created_at";s:19:"2023-08-31 13:35:44";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:6:"module";s:6:"rel_id";s:1:"0";s:5:"field";s:42:"layout-contacts-skin-2-module-layouts-5--1";s:5:"value";s:3997:"
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-10 mx-auto">
+                <div class="row">
+                    <div class="col-lg-6 text-center text-lg-start text-lg-left m-b-40 allow-drop element" id="element_1693480883528">
+                        <h2 class="hr element" id="element_1693480883469">Why to Contact Us?</h2>
+                        <p class="element" id="element_1693480883478">
+La qualité de l'air intérieur a son rôle à jouer dans l'urgence climatique. C'est en partant de ce constat que l'Association française de la ventilation (AFV) vient de signer, à l'occasion de son deuxième anniversaire, une charte avec le Plan Bâtiment Durable (PBD) et l'Agence de la transition écologique</p>
+                        <br>
+                        <br>
+
+                        <div class="element" id="element_1693480883529">
+                            <module class="module module-btn" id="module-layouts-5--1-btn" data-mw-title="Button" template="bootstrap" button_style="btn-primary" button_text="Contact Us" parent-module-id="module-layouts-5--1" parent-module="layouts" data-type="btn"></module>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <div class="row">
+                            <div class="col-12 cloneable">
+                                <div class="shadow-md box">
+                                    <div class="icon-holder">
+                                        <i class="mw-icon mw-micon-Building"></i>
+                                    </div>
+                                    <div class="text-holder allow-drop element">
+                                        <p class="element" id="element_1693480883417"><strong>Address</strong></p>
+                                        <p class="element">Sofia, Bulgaria, bul. Cherni Vruh 47. Floor 5, Building A</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-12 cloneable">
+                                <div class="shadow-md box">
+                                    <div class="icon-holder">
+                                        <i class="mw-icon mw-micon-Smartphone-3"></i>
+                                    </div>
+                                    <div class="text-holder allow-drop element">
+                                        <p class="element" id="element_1693480883373"><strong>Phone</strong></p>
+                                        <p class="element" id="element_1693480883379">00359 878 998 778 ( Office ) 00359 878 887 887 ( Sales)</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-12 cloneable">
+                                <div class="shadow-md box">
+                                    <div class="col-1 icon-holder">
+                                        <i class="mw-icon mw-micon-Email"></i>
+                                    </div>
+                                    <div class="col text-holder allow-drop element">
+                                        <p class="element"><strong>Other ways to contact us</strong></p>
+                                        <p class="element">Email: info@youremail.com</p>
+                                    </div>
+                                   <div class="col-md-4">
+                                       <module class=" module module-social-links " id="module-layouts-5--1-social-links" data-mw-title="Social Links" parent-module-id="module-layouts-5--1" parent-module="layouts" data-type="social_links"></module>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+";}

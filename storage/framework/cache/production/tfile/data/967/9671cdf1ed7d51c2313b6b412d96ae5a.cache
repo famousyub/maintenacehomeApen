@@ -1,0 +1,8 @@
+000046a:1:{s:4:"time";s:21:"0.98649500 1696667512";}1696727512a:9:{s:2:"id";i:37;s:10:"updated_at";s:19:"2021-04-27 14:13:54";s:10:"created_at";s:19:"2021-04-27 13:30:51";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:7:"content";s:6:"rel_id";s:2:"24";s:5:"field";s:7:"content";s:5:"value";s:943:"
+        <module class="module module-layouts" data-mw-title="Layouts" id="module-layouts-24" template="skin-9" data-type="layouts"></module>
+        <module class="module module-layouts" data-mw-title="Layouts" id="module-layouts-24--1" template="features/skin-9" data-type="layouts"></module>
+        <module class="module module module-layouts " data-mw-title="Layouts" id="module-layouts-24--2" template="galleries/skin-3" data-type="layouts"></module>
+        <module class="module module module-layouts " data-mw-title="Layouts" id="module-layouts-24--3" template="videos/skin-5" data-type="layouts"></module>
+        <module class="module module module-layouts " data-mw-title="Layouts" id="module-layouts-24--4" template="people/skin-1" data-type="layouts"></module>
+        <module class="module module module-layouts " data-mw-title="Layouts" id="module-layouts-24--5" template="blockquotes/skin-4" data-type="layouts"></module>
+    ";}

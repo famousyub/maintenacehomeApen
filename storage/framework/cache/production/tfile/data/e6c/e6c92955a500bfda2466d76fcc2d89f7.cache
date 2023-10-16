@@ -1,0 +1,37 @@
+000046a:1:{s:4:"time";s:21:"0.99195700 1696667512";}1696727512a:9:{s:2:"id";i:36;s:10:"updated_at";s:19:"2023-08-31 10:24:24";s:10:"created_at";s:19:"2021-04-27 11:15:34";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:6:"global";s:6:"rel_id";s:1:"0";s:5:"field";s:16:"new-world_footer";s:5:"value";s:2303:"
+                <div class="row">
+                    <div class="col-12 col-lg-12 col-xl-3 mx-auto logo-column text-center text-xl-left m-b-20 allow-drop element" id="element_1619521706099">
+                        <img src="{SITE_URL}userfiles/media/default/apaned_1.png" alt="" class="m-b-10" style="height: auto;">
+                        <br>
+                        <br>
+                    </div>
+
+                    <div class="col-12 col-lg-12 col-xl-5 mx-auto text-center text-xl-left m-b-40 allow-drop element" id="element_1619521705997">
+                        <module class="module module-menu" data-mw-title="Menu" template="simple" id="footer_menu" data-type="menu" parent-module="menu" parent-module-id="footer_menu"></module>
+                        <br>
+                        <p class="element" id="element_1619521706145">	102 rue de Lannoy
+59650 Villeneuve-d’Ascq
+Tél : 03 20 73 16 93<br>‌RÉACTIVITÉ ET PROFESSIONALISME
+POLYVALENCE ET SPECIALISATION
+CONTRÔLE ET SUIVI DE LA QUALITÉ
+AUDIT ET ANALYSE ET DES RISQUES</p>
+                    </div>
+
+                    <div class="col-12 col-sm col-lg-6 col-xl mx-auto text-white allow-drop element" id="element_1619521706230">
+                        <h6 class="m-b-10 m-t-5 element" id="element_1619521706231">Subscribe for Newsletter</h6>
+                        <module class="module module-contact-form" data-mw-title="Contact form" template="footer" id="footer_newsletter" data-type="contact_form" parent-module="contact_form" parent-module-id="footer_newsletter"></module>
+                                            </div>
+
+                    <div class="col-12 col-sm col-lg-6 col-xl mx-auto text-white text-center text-sm-right allow-drop element" id="element_1693477338479">
+                        <h6 class="m-t-5 element" id="element_1693477338631">APEN Tunisie	SIRIUS Sécurité
+Immeuble FATH
+71 avenue Jean Jaurès
+TUNIS 1002
+Tél. : +216 24100340
+Pour la France : contact@apen.fr
+Pour la Tunisie : moustapha@gexcellence.fr</h6>
+
+                        <module class="module module-social-links" data-mw-title="Social Links" id="footer_socials" data-type="social_links" parent-module="social_links" parent-module-id="footer_socials"></module>
+                    </div>
+                </div>
+            ";}

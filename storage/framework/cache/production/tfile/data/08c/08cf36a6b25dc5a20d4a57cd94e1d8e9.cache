@@ -1,0 +1,9 @@
+000046a:1:{s:4:"time";s:21:"0.26011800 1696667540";}1696727540a:9:{s:2:"id";i:69;s:10:"updated_at";s:19:"2023-08-31 13:36:54";s:10:"created_at";s:19:"2023-08-31 13:36:41";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:6:"module";s:6:"rel_id";s:1:"0";s:5:"field";s:42:"layout-contacts-skin-3-module-layouts-5--2";s:5:"value";s:364:"
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 mx-auto">
+                <module class="module module-google-maps" data-mw-title="Google Maps" id="module-layouts-5--2-google-maps" parent-module-id="module-layouts-5--2" parent-module="layouts" data-type="google_maps"></module>
+            </div>
+        </div>
+    </div>
+";}
